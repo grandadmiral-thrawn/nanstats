@@ -1,4 +1,4 @@
-NanStat.jl
+NanStats.jl
 ==============
 
 >> That feels of "I miss nanstd" from MATLAB, I know it bro.
